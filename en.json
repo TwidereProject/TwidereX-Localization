@@ -23,7 +23,10 @@
                 "cancel": "Cancel"
             },
             "timeline": {
-                "load_more": "Load More",
+                "load_more": "Load More"
+            },
+            "status": {
+                "user_retweeted": "%s retweeted"
             },
             "friendship": {
                 "actions": {
@@ -44,6 +47,14 @@
         }
     },
     "scene": {
+        "drawer": {
+            "sign_in": "Sign in",
+            "manage_accounts": "Manage accounts"
+        },
+        "manage_accounts": {
+            "title": "Accounts",
+            "delete_account": "Delete account"
+        },
         "sign_in": {
             "sign_in_with_twitter": "Sign in with Twitter"
         },
@@ -52,6 +63,32 @@
         },
         "mentions": {
             "title": "Mentions"
+        },
+        "messages": {
+            "title": "Messages"
+        },
+        "likes": {
+            "title": "Likes"
+        },
+        "bookmark": {
+            "title": "Bookmark"
+        },
+        "trends": {
+            "title": "Trends"
+        },
+        "status": {
+            "reply": {
+                "single": "%d reply",
+                "mutiple": "%d replies"
+            },
+            "quote": {
+                "single": "%d quote",
+                "mutiple": "%d quotes"
+            },
+            "retweet": {
+                "single": "%d retweet",
+                "mutiple": "%d retweets"
+            }
         },
         "search": {
             "search_bar": {
@@ -80,10 +117,17 @@
             "reply_to": "Reply to …",
             "and": ", ",
             "last_end": " and ",
-            "placeholder": "What’s happening?"
+            "placeholder": "What’s happening?",
+            "others_in_this_conversation": "Others in this conversation:",
+            "message_save_draft": "Save draft?",
+            "replying_to": "Replying to"
         },
         "drafts": {
-            "title": "Drafts"
+            "title": "Drafts",
+            "actions": {
+                "delete_draft": "Delete draft",
+                "edit_draft": "Edit draft"
+            }
         },
         "lists": {
             "title": "Lists",
@@ -116,6 +160,24 @@
             "section_header": {
                 "general": "General",
                 "about": "About"
+            },
+            "appearance": {
+                "title": "Appearance",
+                "highlight_color": "Highlight color",
+                "pick_color": "Pick color",
+                "section_header": {
+                    "tab_position": "Tab position",
+                    "theme": "Theme"
+                },
+                "tab_position": {
+                    "top": "Top",
+                    "bottom": "Bottom"
+                },
+                "theme": {
+                    "auto": "Auto",
+                    "light": "light",
+                    "dark": "dark"
+                }
             },
             "display": {
                 "title": "Display",
