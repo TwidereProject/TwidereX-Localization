@@ -1,0 +1,152 @@
+{
+    "common": {
+        "alerts": {
+            "account_temporarily_locked": {
+                "title": "Account Temporarily Locked",
+                "message": "Open Twitter to unlock"
+            },
+            "unfollow_user": {
+                "message": "Unfollow user %s?"
+            },
+            "cancel_follow_request": {
+                "message": "Cancel follow request for %s?"
+            }
+        },
+        "controls": {
+            "actions": {
+                "add": "Add",
+                "remove": "Remove",
+                "edit": "Edit",
+                "save": "Save",
+                "save_photo": "Save Photo",
+                "ok": "OK",
+                "cancel": "Cancel"
+            },
+            "timeline": {
+                "load_more": "Load More",
+            },
+            "friendship": {
+                "actions": {
+                    "follow": "Follow",
+                    "unfollow": "Unfollow",
+                    "following": "Following",
+                    "pending": "Pending"
+                },
+                "follower": "follower",
+                "followers": "followers",
+                "follows_you": "Follows you"
+            },
+            "profile_dashboard": {
+                "following": "Following",
+                "follower": "Follower",
+                "listed": "Listed"
+            }
+        }
+    },
+    "scene": {
+        "sign_in": {
+            "sign_in_with_twitter": "Sign in with Twitter"
+        },
+        "timeline": {
+            "title": "Timeline"
+        },
+        "mentions": {
+            "title": "Mentions"
+        },
+        "search": {
+            "search_bar": {
+                "placeholder": "Search tweets or users"
+            },
+            "saved_search": "Saved Search",
+            "tabs": {
+                "tweets": "Tweets",
+                "media": "Media",
+                "users": "Users"
+            }
+        },
+        "profile": {
+            "hide_reply": "Hide reply",
+            "permission_denied": {
+                "title": "Permission Denied",
+                "message": "You have been blocked from viewing this user’s profile."
+            }
+        },
+        "compose": {
+            "title": {
+                "compose": "Compose",
+                "reply": "Reply",
+                "quote": "Quote"
+            },
+            "reply_to": "Reply to …",
+            "and": ", ",
+            "last_end": " and ",
+            "placeholder": "What’s happening?"
+        },
+        "drafts": {
+            "title": "Drafts"
+        },
+        "lists": {
+            "title": "Lists",
+            "tabs": {
+                "created": "Created",
+                "subscribed": "Subscribed"
+            }
+        },
+        "lists_details": {
+            "title": "Lists Details",
+            "descriptions": {
+                "single_member": "1 Member",
+                "multiple_members": "%d Members",
+                "single_subscriber": "1 Subscriber",
+                "multiple_subscribers": "%d Subscribers"
+            },
+            "menu_actions": {
+                "add_member": "Add Member",
+                "Edit List": "Edit List"
+            },
+            "tabs": {
+                "members": "Members",
+                "subscriber": "Subscriber"
+            },
+            "no_members_found": "No Members Found.",
+            "add_members": "Add Members"
+        },
+        "settings": {
+            "title": "Settings",
+            "section_header": {
+                "general": "General",
+                "about": "About"
+            },
+            "display": {
+                "title": "Display",
+                "section_header": {
+                    "preview": "Preview",
+                    "text": "Text",
+                    "date_format": "Date Format",
+                    "media": "Media"
+                },
+                "text": {
+                    "use_the_system_font_size": "Use the system font size",
+                    "avatar_style": "Avatar Style",
+                    "round": "Round",
+                    "square": "Square"
+                },
+                "date_format": {
+                    "relative": "Relative",
+                    "absolute": "Absolute"
+                },
+                "media": {
+                    "media_previews": "Media previews",
+                    "auto_playback": "Auto playback",
+                    "automatic": "Automatic",
+                    "always": "Always",
+                    "off": "Off"
+                }
+            },
+            "about": {
+                "title": "About",
+                "license": "License"
+            }
+        }
+    }
+}
