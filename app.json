@@ -219,8 +219,8 @@
                 "text": {
                     "use_the_system_font_size": "Use the system font size",
                     "avatar_style": "Avatar Style",
-                    "round": "Round",
-                    "square": "Square"
+                    "circle": "Circle",
+                    "rounded_square": "Rounded Square"
                 },
                 "date_format": {
                     "relative": "Relative",
