@@ -10,6 +10,13 @@
             },
             "cancel_follow_request": {
                 "message": "Cancel follow request for %s?"
+            },
+            "tweet_sent": {
+                "title": "Tweet Sent"
+            },
+            "tweet_fail": {
+                "title": "Tweet Fail",
+                "message": "Please try again"
             }
         },
         "controls": {
@@ -18,9 +25,13 @@
                 "remove": "Remove",
                 "edit": "Edit",
                 "save": "Save",
-                "save_photo": "Save Photo",
                 "ok": "OK",
-                "cancel": "Cancel"
+                "confirm": "Confirm",
+                "cancel": "Cancel",
+                "take_photo": "Take photo",
+                "save_photo": "Save photo",
+                "preview": "Preview",
+                "open_in_safari": "Open in Safari"
             },
             "timeline": {
                 "load_more": "Load More"
@@ -41,8 +52,11 @@
             },
             "profile_dashboard": {
                 "following": "Following",
-                "follower": "Follower",
+                "followers": "Followers",
                 "listed": "Listed"
+            },
+            "ios": {
+                "photo_library": "Photo Library"
             }
         }
     },
@@ -57,6 +71,9 @@
         },
         "sign_in": {
             "sign_in_with_twitter": "Sign in with Twitter"
+        },
+        "authentication": {
+            "title": "Authentication"
         },
         "timeline": {
             "title": "Timeline"
@@ -78,19 +95,24 @@
         },
         "status": {
             "reply": {
-                "single": "%d reply",
-                "mutiple": "%d replies"
+                "single": "1 Reply",
+                "mutiple": "%d Replies"
             },
             "quote": {
-                "single": "%d quote",
-                "mutiple": "%d quotes"
+                "single": "1 Quote",
+                "mutiple": "%d Quotes"
             },
             "retweet": {
-                "single": "%d retweet",
-                "mutiple": "%d retweets"
+                "single": "1 Retweet",
+                "mutiple": "%d Retweets"
+            },
+            "like": {
+                "single": "1 Like",
+                "multiple": "%d Likes"
             }
         },
         "search": {
+            "title": "Search",
             "search_bar": {
                 "placeholder": "Search tweets or users"
             },
@@ -102,6 +124,7 @@
             }
         },
         "profile": {
+            "title": "Me",
             "hide_reply": "Hide reply",
             "permission_denied": {
                 "title": "Permission Denied",
@@ -119,7 +142,10 @@
             "last_end": " and ",
             "placeholder": "What’s happening?",
             "others_in_this_conversation": "Others in this conversation:",
-            "message_save_draft": "Save draft?",
+            "save_draft": {
+                "message": "Save draft?",
+                "action": "Save draft"
+            },
             "replying_to": "Replying to"
         },
         "drafts": {
@@ -186,6 +212,9 @@
                     "text": "Text",
                     "date_format": "Date Format",
                     "media": "Media"
+                },
+                "preview": {
+                    "thank_for_using_twidere_x": "Thanks for using @TwidereProject!"
                 },
                 "text": {
                     "use_the_system_font_size": "Use the system font size",
