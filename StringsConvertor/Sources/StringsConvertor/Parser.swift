@@ -20,8 +20,15 @@ class Parser {
 }
 
 extension Parser {
+    enum KeyStyle {
+        case infoPlist
+        case swiftgen
+    }
+}
+
+extension Parser {
     
-    func generateStrings() -> String {
+    func generateStrings(keyStyle: KeyStyle = .swiftgen) -> String {
         let pairs = traval(dictionary: json, prefixKeys: [])
         
         var lines: [String] = []
@@ -33,7 +40,12 @@ extension Parser {
                         segment
                             .split(separator: "_")
                             .map { String($0) }
-                            .map { $0.capitalized }
+                            .map {
+                                switch keyStyle {
+                                case .infoPlist:        return $0
+                                case .swiftgen:         return $0.capitalized
+                                }
+                            }
                             .joined()
                     }
                     .joined(separator: "."),

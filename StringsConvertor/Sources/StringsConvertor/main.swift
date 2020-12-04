@@ -27,9 +27,9 @@ private func convert(from inputDirectory: URL, to outputDirectory: URL) {
             for jsonURL in fileURLs where jsonURL.pathExtension == "json" {
                 os_log("%{public}s[%{public}ld], %{public}s: process %s", ((#file as NSString).lastPathComponent), #line, #function, jsonURL.debugDescription)
                 let filename = jsonURL.deletingPathExtension().lastPathComponent
-                guard let mappedFilename = map(filename: filename) else { continue }
+                guard let (mappedFilename, keyStyle) = map(filename: filename) else { continue }
                 let outputFileURL = outputDirectoryURL.appendingPathComponent(mappedFilename).appendingPathExtension("strings")
-                let strings = try process(url: jsonURL)
+                let strings = try process(url: jsonURL, keyStyle: keyStyle)
                 try? FileManager.default.createDirectory(at: outputDirectoryURL, withIntermediateDirectories: true, attributes: nil)
                 try strings.write(to: outputFileURL, atomically: true, encoding: .utf8)
             }
@@ -48,19 +48,19 @@ private func map(language: String) -> String? {
     }
 }
 
-private func map(filename: String) -> String? {
+private func map(filename: String) -> (filename: String, keyStyle: Parser.KeyStyle)? {
     switch filename {
-    case "app":             return "Localizable"
-    case "ios-infoPlist":   return "infoPlist"
+    case "app":             return ("Localizable", .swiftgen)
+    case "ios-infoPlist":   return ("infoPlist", .infoPlist)
     default:                return nil
     }
 }
 
-private func process(url: URL) throws -> String {
+private func process(url: URL, keyStyle: Parser.KeyStyle) throws -> String {
     do {
         let data = try Data(contentsOf: url)
         let parser = try Parser(data: data)
-        let strings = parser.generateStrings()
+        let strings = parser.generateStrings(keyStyle: keyStyle)
         return strings
     } catch {
         os_log("%{public}s[%{public}ld], %{public}s: error: %s", ((#file as NSString).lastPathComponent), #line, #function, error.localizedDescription)
