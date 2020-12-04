@@ -58,6 +58,40 @@
             "ios": {
                 "photo_library": "Photo Library"
             }
+        },
+        "countable": {
+            "reply": {
+                "single": "reply",
+                "mutiple": "replies"
+            },
+            "quote": {
+                "single": "quote",
+                "mutiple": "quotes"
+            },
+            "retweet": {
+                "single": "retweet",
+                "mutiple": "retweets"
+            },
+            "like": {
+                "single": "like",
+                "multiple": "likes"
+            },
+            "member": {
+                "single": "member",
+                "multiple": "members"
+            },
+            "list": {
+                "single": "list",
+                "multiple": "lists"
+            },
+            "tweet": {
+                "single": "tweet",
+                "multiple": "tweets"
+            },
+            "photo": {
+                "single": "photo",
+                "multiple": "photos"
+            }
         }
     },
     "scene": {
