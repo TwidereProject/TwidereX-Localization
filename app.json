@@ -15,7 +15,14 @@
                 "title": "Tweet Sent"
             },
             "tweet_fail": {
-                "title": "Tweet Fail",
+                "title": "Failed to Tweet",
+                "message": "Please try again"
+            },
+            "photo_saved": {
+                "title": "Photo Saved"
+            },
+            "photo_save_fail": {
+                "title": "Failed to Save Photo",
                 "message": "Please try again"
             }
         },
