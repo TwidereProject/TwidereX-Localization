@@ -213,7 +213,7 @@
             },
             "menu_actions": {
                 "add_member": "Add Member",
-                "Edit List": "Edit List"
+                "edit_list": "Edit List"
             },
             "tabs": {
                 "members": "Members",
