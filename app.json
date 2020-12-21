@@ -135,6 +135,7 @@
             "title": "Trends"
         },
         "status": {
+            "title": "Tweet",
             "reply": {
                 "single": "1 Reply",
                 "mutiple": "%d Replies"
