@@ -5,6 +5,10 @@
                 "title": "Account Temporarily Locked",
                 "message": "Open Twitter to unlock"
             },
+            "rate_limit_exceeded": {
+                "title": "Rate Limit Exceeded",
+                "message": "Reached Twitter API usage limit"
+            },
             "unfollow_user": {
                 "message": "Unfollow user %s?"
             },
