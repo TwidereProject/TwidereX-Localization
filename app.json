@@ -59,7 +59,9 @@
                 },
                 "follower": "follower",
                 "followers": "followers",
-                "follows_you": "Follows you"
+                "follows_you": "Follows you",
+                "user_is_not_following_you": "%s is not following you",
+                "user_is_following_you": "%s is following you"
             },
             "profile_dashboard": {
                 "following": "Following",
@@ -176,6 +178,15 @@
                 "title": "Permission Denied",
                 "message": "You have been blocked from viewing this user’s profile."
             }
+        },
+        "following": {
+            "title": "Following"
+        },
+        "follower": {
+            "title": "Follower"
+        },
+        "listed": {
+            "title": "Listed"
         },
         "compose": {
             "title": {
