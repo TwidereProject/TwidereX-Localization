@@ -182,8 +182,8 @@
         "following": {
             "title": "Following"
         },
-        "follower": {
-            "title": "Follower"
+        "followers": {
+            "title": "Followers"
         },
         "listed": {
             "title": "Listed"
