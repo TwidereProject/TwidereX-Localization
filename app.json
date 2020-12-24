@@ -28,6 +28,27 @@
             "photo_save_fail": {
                 "title": "Failed to Save Photo",
                 "message": "Please try again"
+            },
+            "failed_to_load": {
+                "title": "Failed to Load",
+                "message": "Please try again"
+            },
+            "failed_to_following": {
+                "title": "Failed to Following",
+                "message": "Please try again"
+            },
+            "failed_to_unfollowing": {
+                "title": "Failed to Unfollowing",
+                "message": "Please try again"
+            },
+            "following_success": {
+                "title": "Following Succeeded"
+            },
+            "unfollowing_success": {
+                "title": "Unfollowing Succeeded"
+            },
+            "following_request_sent": {
+                "title": "Following Request Sent"
             }
         },
         "controls": {
