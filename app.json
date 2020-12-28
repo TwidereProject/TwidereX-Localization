@@ -9,6 +9,10 @@
                 "title": "Rate Limit Exceeded",
                 "message": "Reached Twitter API usage limit"
             },
+            "permission_denied": {
+                "title": "Permission Denied",
+                "message": "Not authorized"
+            },
             "unfollow_user": {
                 "message": "Unfollow user %s?"
             },
