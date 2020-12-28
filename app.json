@@ -11,7 +11,7 @@
             },
             "permission_denied": {
                 "title": "Permission Denied",
-                "message": "Not authorized"
+                "message": "Sorry, you are not authorized"
             },
             "unfollow_user": {
                 "message": "Unfollow user %s?"
