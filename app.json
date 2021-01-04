@@ -9,9 +9,16 @@
                 "title": "Rate Limit Exceeded",
                 "message": "Reached Twitter API usage limit"
             },
-            "permission_denied": {
+            "permission_denied_not_authorized": {
                 "title": "Permission Denied",
                 "message": "Sorry, you are not authorized"
+            },
+            "permission_denied_friendship_blocked": {
+                "title": "Permission Denied",
+                "message": "You have been blocked from following this account at the request of the user"
+            },
+            "no_tweets_found": {
+                "title": "No Tweets Found"
             },
             "unfollow_user": {
                 "message": "Unfollow user %s?"
@@ -199,7 +206,7 @@
         "profile": {
             "title": "Me",
             "hide_reply": "Hide reply",
-            "permission_denied": {
+            "permission_denied_profile_blocked": {
                 "title": "Permission Denied",
                 "message": "You have been blocked from viewing this user’s profile."
             }
