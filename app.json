@@ -88,6 +88,7 @@
                     "copy_link": "Copy Link",
                     "share_link": "Share Link"
                 },
+                "media": "Media",
                 "user_retweeted": "%s retweeted"
             },
             "friendship": {
