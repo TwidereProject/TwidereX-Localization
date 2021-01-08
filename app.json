@@ -33,6 +33,13 @@
                 "title": "Failed to Tweet",
                 "message": "Please try again"
             },
+            "tweet_deleted": {
+                "title": "Tweet Deleted"
+            },
+            "failed_to_delete_tweet": {
+                "title": "Failed to Delete Tweet",
+                "message": "Please try again"
+            },
             "photo_saved": {
                 "title": "Photo Saved"
             },
