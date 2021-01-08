@@ -60,6 +60,9 @@
             },
             "following_request_sent": {
                 "title": "Following Request Sent"
+            },
+            "too_many_requests": {
+                "title": "Too many requests"
             }
         },
         "controls": {
@@ -80,6 +83,11 @@
                 "load_more": "Load More"
             },
             "status": {
+                "actions": {
+                    "copy_text": "Copy text",
+                    "copy_link": "Copy Link",
+                    "share_link": "Share Link"
+                },
                 "user_retweeted": "%s retweeted"
             },
             "friendship": {
