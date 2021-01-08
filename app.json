@@ -85,8 +85,9 @@
             "status": {
                 "actions": {
                     "copy_text": "Copy text",
-                    "copy_link": "Copy Link",
-                    "share_link": "Share Link"
+                    "copy_link": "Copy link",
+                    "share_link": "Share link",
+                    "delete_tweet": "Delete tweet"
                 },
                 "media": "Media",
                 "user_retweeted": "%s retweeted"
