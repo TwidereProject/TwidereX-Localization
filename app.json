@@ -17,6 +17,11 @@
                 "title": "Permission Denied",
                 "message": "You have been blocked from following this account at the request of the user"
             },
+            "account_suspended": {
+                "title": "Account Suspended",
+                "message": "Twitter suspends accounts which violate the %s",
+                "twitter_rules": "Twitter Rules"
+            },
             "no_tweets_found": {
                 "title": "No Tweets Found"
             },
