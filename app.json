@@ -74,7 +74,49 @@
                 "title": "Following Request Sent"
             },
             "too_many_requests": {
-                "title": "Too many requests"
+                "title": "Too Many Requests"
+            },
+            "mute_user_success": {
+                "title": "%s has been muted"
+            },
+            "failed_to_mute_user": {
+                "title": "Failed to mute %s",
+                "message": "Please try again"
+            },
+            "unmute_user_success": {
+                "title": "%s has been unmuted"
+            },
+            "failed_to_unmute_user": {
+                "title": "Failed to unmute %s",
+                "message": "Please try again"
+            },
+            "block_user_success": {
+                "title": "%s has been blocked"
+            },
+            "failed_to_block_user": {
+                "title": "Failed to block %s",
+                "message": "Please try again"
+            },
+            "unblock_user_success": {
+                "title": "%s has been unblocked"
+            },
+            "failed_to_unblock_user": {
+                "title": "Failed to unblock %s",
+                "message": "Please try again"
+            },
+            "report_user_success": {
+                "title": "%s has been reported for spam"
+            },
+            "failed_to_report_user": {
+                "title": "Failed to report %s",
+                "message": "Please try again"
+            },
+            "report_and_block_user_success": {
+                "title": "%s has been reported for spam and blocked"
+            },
+            "failed_to_report_and_block_user": {
+                "title": "Failed to report and block %s",
+                "message": "Please try again"
             }
         },
         "controls": {
@@ -109,13 +151,21 @@
                     "follow": "Follow",
                     "unfollow": "Unfollow",
                     "following": "Following",
-                    "pending": "Pending"
+                    "pending": "Pending",
+                    "mute": "Mute",
+                    "unmute": "Unmute",
+                    "block": "Block",
+                    "unblock": "Unblock",
+                    "report": "Report",
+                    "report_and_block": "Report and Block"
                 },
                 "follower": "follower",
                 "followers": "followers",
                 "follows_you": "Follows you",
                 "user_is_not_following_you": "%s is not following you",
-                "user_is_following_you": "%s is following you"
+                "user_is_following_you": "%s is following you",
+                "mute_user": "Mute %s",
+                "block_user": "Block %s"
             },
             "profile_dashboard": {
                 "following": "Following",
