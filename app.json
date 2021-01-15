@@ -226,10 +226,8 @@
             "sign_in_with_twitter": "Sign in with Twitter",
             "sign_in_with_mastodon": "Sign in with Mastodon",
             "twitter_options": {
-                "sign_in_with_custom_twitter_api": "Sign in with Custom Twitter API",
-                "api_v2_is_required": "API v2 is required.",
-                "api_key": "API key",
-                "api_secret_key": "API secret key"
+                "sign_in_with_custom_twitter_key": "Sign in with Custom Twitter Key",
+                "twitter_api_v2_access_is_required": "Twitter API v2 access is required."
             }
         },
         "authentication": {
