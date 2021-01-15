@@ -130,6 +130,7 @@
                 "cancel": "Cancel",
                 "take_photo": "Take photo",
                 "save_photo": "Save photo",
+                "sign_in": "Sign in",
                 "preview": "Preview",
                 "open_in_safari": "Open in Safari"
             },
@@ -221,7 +222,15 @@
             "delete_account": "Delete account"
         },
         "sign_in": {
-            "sign_in_with_twitter": "Sign in with Twitter"
+            "hello_sign_in_to_get_started": "Hello!\nSign in to Get Started.",
+            "sign_in_with_twitter": "Sign in with Twitter",
+            "sign_in_with_mastodon": "Sign in with Mastodon",
+            "twitter_options": {
+                "sign_in_with_custom_twitter_api": "Sign in with Custom Twitter API",
+                "api_v2_is_required": "API v2 is required.",
+                "api_key": "API key",
+                "api_secret_key": "API secret key"
+            }
         },
         "authentication": {
             "title": "Authentication"
