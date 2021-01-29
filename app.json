@@ -407,5 +407,76 @@
                 "license": "License"
             }
         }
+    },
+    "accessibility": {
+        "common": {
+            "network_image": "Network Image",
+            "back": "Back",
+            "more": "More",
+            "close": "Close",
+            "done": "Done",
+            "logo": {
+                "twidere": "Twidere X logo",
+                "twitter": "Twitter Logo",
+                "mastodon": "Mastodon Logo",
+                "github": "Github Logo"
+            },
+            "video": {
+                "play": "Play video"
+            },
+            "status": {
+                "location": "Location",
+                "retweeted": "Retweeted",
+                "media": "Media",
+                "actions": {
+                    "reply": "Reply",
+                    "retweet": "Retweet",
+                    "like": "Like"
+                }
+            }
+        },
+        "scene": {
+            "home": {
+                "compose": "Compose",
+                "menu": "Menu",
+                "drawer": {
+                    "account_dropdown": "Account DropDown"
+                }
+            },
+            "search": {
+                "history": "History",
+                "save": "Save"
+            },
+            "timeline": {
+                "load_gap": "Load"
+            },
+            "user": {
+                "website": "Website",
+                "location": "Location",
+                "tab": {
+                    "status": "Statuses",
+                    "media": "Media",
+                    "favourite": "Favourite"
+                }
+            },
+            "compose": {
+                "send": "Send",
+                "location": {
+                    "enable": "Enable Location",
+                    "disable": "Disable location"
+                },
+                "at": "At",
+                "image": "Add image",
+                "draft": "Open draft"
+            },
+            "manage_accounts": {
+                "add": "Add"
+            },
+            "settings": {
+                "display": {
+                    "font_size": "Font Size"
+                }
+            }
+        }
     }
 }
