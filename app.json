@@ -119,6 +119,15 @@
                 "message": "Please try again"
             }
         },
+        "notification": {
+            "own_poll": "Your poll has ended",
+            "poll": "A poll you have voted in has ended",
+            "reblog": "%s boosted your toot",
+            "status": "%s just posted",
+            "follow_request": "%s has requested to follow you",
+            "favourite": "%s favourited your toot",
+            "follow": "%s followed you"
+        },
         "controls": {
             "actions": {
                 "add": "Add",
@@ -140,12 +149,22 @@
             "status": {
                 "actions": {
                     "copy_text": "Copy text",
+                    "quote": "Quote",
+                    "retweet": "Retweet",
                     "copy_link": "Copy link",
                     "share_link": "Share link",
-                    "delete_tweet": "Delete tweet"
+                    "delete_tweet": "Delete tweet",
+                    "vote": "Vote"
                 },
                 "media": "Media",
-                "user_retweeted": "%s retweeted"
+                "user_retweeted": "%s retweeted",
+                "poll": {
+                    "expired": "Closed",
+                    "total_person": "%s person",
+                    "total_vote": "%s vote",
+                    "total_people": "%s people",
+                    "total_votes": "%s votes"
+                }
             },
             "friendship": {
                 "actions": {
@@ -239,6 +258,12 @@
         "mentions": {
             "title": "Mentions"
         },
+        "notification": {
+            "title": "Notification",
+            "tabs": {
+                "all": "All"
+            }
+        },
         "messages": {
             "title": "Messages"
         },
@@ -279,7 +304,8 @@
             "tabs": {
                 "tweets": "Tweets",
                 "media": "Media",
-                "users": "Users"
+                "users": "Users",
+                "hashtag": "Hashtag"
             }
         },
         "profile": {
@@ -369,8 +395,8 @@
                 },
                 "theme": {
                     "auto": "Auto",
-                    "light": "light",
-                    "dark": "dark"
+                    "light": "Light",
+                    "dark": "Dark"
                 }
             },
             "display": {
