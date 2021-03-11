@@ -198,36 +198,36 @@
         },
         "countable": {
             "reply": {
-                "single": "reply",
-                "mutiple": "replies"
+                "single": "%s reply",
+                "mutiple": "%s replies"
             },
             "quote": {
-                "single": "quote",
-                "mutiple": "quotes"
+                "single": "%s quote",
+                "mutiple": "%s quotes"
             },
             "retweet": {
-                "single": "retweet",
-                "mutiple": "retweets"
+                "single": "%s retweet",
+                "mutiple": "%s retweets"
             },
             "like": {
-                "single": "like",
-                "multiple": "likes"
+                "single": "%s like",
+                "multiple": "%s likes"
             },
             "member": {
-                "single": "member",
-                "multiple": "members"
+                "single": "%s member",
+                "multiple": "%s members"
             },
             "list": {
-                "single": "list",
-                "multiple": "lists"
+                "single": "%s list",
+                "multiple": "%s lists"
             },
             "tweet": {
-                "single": "tweet",
-                "multiple": "tweets"
+                "single": "%s tweet",
+                "multiple": "%s tweets"
             },
             "photo": {
-                "single": "photo",
-                "multiple": "photos"
+                "single": "%s photo",
+                "multiple": "%s photos"
             }
         }
     },
@@ -314,6 +314,10 @@
             "permission_denied_profile_blocked": {
                 "title": "Permission Denied",
                 "message": "You have been blocked from viewing this user’s profile."
+            },
+            "filter": {
+                "all": "All tweets",
+                "exclude_replies": "Exclude replies"
             }
         },
         "following": {
@@ -335,12 +339,25 @@
             "and": ", ",
             "last_end": " and ",
             "placeholder": "What’s happening?",
+            "cw_placeholder": "Write your warning here",
             "others_in_this_conversation": "Others in this conversation:",
             "save_draft": {
                 "message": "Save draft?",
                 "action": "Save draft"
             },
-            "replying_to": "Replying to"
+            "replying_to": "Replying to",
+            "vote": {
+                "multiple": "multiple",
+                "expiration": {
+                    "5_Min": "5 minutes",
+                    "30_Min": "30 minutes",
+                    "1_Hour": "1 hour",
+                    "6_Hour": "6 hours",
+                    "1_Day": "1 day",
+                    "3_Day": "3 days",
+                    "7_Day": "7 days"
+                }
+            }
         },
         "drafts": {
             "title": "Drafts",
