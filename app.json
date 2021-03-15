@@ -347,7 +347,7 @@
             },
             "replying_to": "Replying to",
             "vote": {
-                "multiple": "multiple",
+                "multiple": "Multiple choice",
                 "expiration": {
                     "5_Min": "5 minutes",
                     "30_Min": "30 minutes",
@@ -357,7 +357,19 @@
                     "3_Day": "3 days",
                     "7_Day": "7 days"
                 }
+            },
+            "visibility": {
+                "public": "Public",
+                "unlisted": "Unlisted",
+                "private": "Private",
+                "direct": "Direct"
             }
+        },
+        "compose_user_search": {
+            "search_placeholder": "Search users"
+        },
+        "compose_hashtag_search": {
+            "search_placeholder": "Search hashtag"
         },
         "drafts": {
             "title": "Drafts",
