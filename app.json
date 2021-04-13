@@ -459,7 +459,13 @@
             },
             "about": {
                 "title": "About",
-                "license": "License"
+                "license": "License",
+                "description": "Next generation of Twidere for Android 5.0+. \nStill in early stage.",
+                "version": "Ver %s",
+                "logo": {
+                  "background": "About page background logo",
+                  "background_shadow": "About page background logo shadow"
+                }
             }
         }
     },
@@ -474,7 +480,8 @@
                 "twidere": "Twidere X logo",
                 "twitter": "Twitter Logo",
                 "mastodon": "Mastodon Logo",
-                "github": "Github Logo"
+                "github": "Github Logo",
+                "telegram": "Telegram Logo"
             },
             "video": {
                 "play": "Play video"
