@@ -457,6 +457,20 @@
                     "off": "Off"
                 }
             },
+            "storage": {
+                "title": "Storage",
+                "search": {
+                    "title": "Clear search history"
+                },
+                "media": {
+                    "title": "Clear media cache",
+                    "sub_title": "Clear stored media cache."
+                },
+                "all": {
+                    "title": "Clear all cache",
+                    "sub_title": "Delete all Twidere X cache. Your account credentials will not be lost."
+                }
+            },
             "about": {
                 "title": "About",
                 "license": "License",
