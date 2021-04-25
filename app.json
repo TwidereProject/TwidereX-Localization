@@ -34,6 +34,9 @@
             "tweet_sent": {
                 "title": "Tweet Sent"
             },
+            "tweet_sending": {
+                "title": "Sending tweet"
+            },
             "tweet_fail": {
                 "title": "Failed to Tweet",
                 "message": "Please try again"
@@ -43,6 +46,16 @@
             },
             "failed_to_delete_tweet": {
                 "title": "Failed to Delete Tweet",
+                "message": "Please try again"
+            },
+            "media_saving": {
+                "title": "Saving media"
+            },
+            "media_saved": {
+                "title": "Media saved"
+            },
+            "media_save_fail": {
+                "title": "Failed to save media",
                 "message": "Please try again"
             },
             "photo_saved": {
@@ -228,6 +241,11 @@
             "photo": {
                 "single": "%s photo",
                 "multiple": "%s photos"
+            }
+        },
+        "notification_channel": {
+            "background_progresses": {
+                "name": "Background progresses"
             }
         }
     },
