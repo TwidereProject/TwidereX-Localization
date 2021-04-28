@@ -399,8 +399,12 @@
         "lists": {
             "title": "Lists",
             "tabs": {
-                "created": "Created",
-                "subscribed": "Subscribed"
+                "created": "MY LISTS",
+                "subscribed": "SUBSCRIBED"
+            },
+            "icons":{
+              "private": "Private visibility",
+              "create": "Create list"
             }
         },
         "lists_details": {
@@ -413,14 +417,42 @@
             },
             "menu_actions": {
                 "add_member": "Add Member",
-                "edit_list": "Edit List"
+                "edit_list": "Edit List",
+                "delete_list": "Delete List",
+                "follow": "Follow",
+                "unfollow": "Unfollow"
             },
             "tabs": {
-                "members": "Members",
-                "subscriber": "Subscriber"
+                "members": "List Members",
+                "subscriber": "List Subscribers"
             },
             "no_members_found": "No Members Found.",
             "add_members": "Add Members"
+        },
+        "lists_modify": {
+          "create": {
+            "title": "New List"
+          },
+          "edit": {
+            "title": "Edit List"
+          },
+          "name": "Name",
+          "description": "Description",
+          "private": "Private",
+          "dialog": {
+            "create": "Create a list",
+            "edit": "Rename the list"
+          }
+        },
+        "lists_users": {
+          "menu_actions": {
+            "add": "Add",
+            "remove": "Remove"
+          },
+          "add": {
+            "title":"Add Member",
+            "search": "Search people"
+          }
         },
         "settings": {
             "title": "Settings",
