@@ -149,6 +149,7 @@
                 "save": "Save",
                 "ok": "OK",
                 "confirm": "Confirm",
+                "yes":"Yes",
                 "cancel": "Cancel",
                 "take_photo": "Take photo",
                 "save_photo": "Save photo",
@@ -418,6 +419,7 @@
             "menu_actions": {
                 "add_member": "Add Member",
                 "edit_list": "Edit List",
+                "rename_list": "Rename List",
                 "delete_list": "Delete List",
                 "follow": "Follow",
                 "unfollow": "Unfollow"
@@ -426,6 +428,7 @@
                 "members": "List Members",
                 "subscriber": "Subscribers"
             },
+            "delete_list_confirm":"Delete this list: %s",
             "no_members_found": "No Members Found.",
             "add_members": "Add Members"
         },
