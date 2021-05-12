@@ -424,7 +424,7 @@
             },
             "tabs": {
                 "members": "List Members",
-                "subscriber": "List Subscribers"
+                "subscriber": "Subscribers"
             },
             "no_members_found": "No Members Found.",
             "add_members": "Add Members"
