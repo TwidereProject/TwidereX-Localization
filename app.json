@@ -508,7 +508,8 @@
                     "automatic": "Automatic",
                     "always": "Always",
                     "off": "Off"
-                }
+                },
+                "url_preview": "Url previews"
             },
             "storage": {
                 "title": "Storage",
