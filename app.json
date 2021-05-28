@@ -474,7 +474,8 @@
                 "pick_color": "Pick color",
                 "section_header": {
                     "tab_position": "Tab position",
-                    "theme": "Theme"
+                    "theme": "Theme",
+                    "scrolling_timeline":"Scrolling timeline"
                 },
                 "tab_position": {
                     "top": "Top",
@@ -484,6 +485,11 @@
                     "auto": "Auto",
                     "light": "Light",
                     "dark": "Dark"
+                },
+                "scrolling_timeline": {
+                  "tab_bar":"Hide tab bar when scrolling",
+                  "app_bar":"Hide app bar when scrolling",
+                  "fab":"Hide FAB when scrolling"
                 }
             },
             "display": {
