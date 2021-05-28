@@ -139,7 +139,8 @@
             "status": "%s just posted",
             "follow_request": "%s has requested to follow you",
             "favourite": "%s favourited your toot",
-            "follow": "%s followed you"
+            "follow": "%s followed you",
+            "mentions": "%s mentions you"
         },
         "controls": {
             "actions": {
@@ -247,6 +248,10 @@
         "notification_channel": {
             "background_progresses": {
                 "name": "Background progresses"
+            },
+            "content_interactions": {
+                "name": "Interactions",
+                "description": "Interactions like mentions and retweets"
             }
         }
     },
