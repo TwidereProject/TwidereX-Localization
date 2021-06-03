@@ -573,6 +573,10 @@
                     "reply": "Reply",
                     "retweet": "Retweet",
                     "like": "Like"
+                },
+                "thread":{
+                  "show":"Show this thread",
+                  "compose":"thread mode"
                 }
             }
         },
