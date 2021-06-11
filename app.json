@@ -536,6 +536,27 @@
                     "sub_title": "Delete all Twidere X cache. Your account credentials will not be lost."
                 }
             },
+            "misc": {
+                "title": "Misc",
+                "nitter": {
+                    "title": "Third-party Twitter data provider",
+                    "input": {
+                        "placeholder": "Nitter Instance",
+                        "description": "Alternative Twitter front-end focused on privacy."
+                    },
+                    "dialog": {
+                        "information": {
+                            "title": "Third party Twitter data provider",
+                            "content": "Due to the limitation of Twitter API, some data might not be able to fetch from Twitter, you can use a third-party data provider to provide these data. Twidere does not take any responsibility for them."
+                        },
+                        "usage": {
+                            "title": "Using Third-party data provider in",
+                            "content": "- Twitter status threading",
+                            "project_button": "Project URL"
+                        }
+                    }
+                }
+            },
             "about": {
                 "title": "About",
                 "license": "License",
