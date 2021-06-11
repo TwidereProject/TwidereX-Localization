@@ -131,9 +131,13 @@
                 "title": "Failed to report and block %s",
                 "message": "Please try again"
             },
-            "sign_in_mastodon_server_connect_fail": {
-                "title": "Connection Failure",
-                "message": "Failed to connect server %s. Please check the server domain and try again."
+            "failed_to_login_mastodon_server": {
+                "title": "Failed to Login",
+                "message": "Server URL is incorrect."
+            },
+            "failed_to_login_timeout": {
+                "title": "Failed to Login",
+                "message": "Connection timeout."
             }
         },
         "notification": {
