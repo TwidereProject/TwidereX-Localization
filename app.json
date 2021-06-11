@@ -632,10 +632,10 @@
             "compose": {
                 "send": "Send",
                 "location": {
-                    "enable": "Enable Location",
+                    "enable": "Enable location",
                     "disable": "Disable location"
                 },
-                "at": "At",
+                "add_mention": "Add mention",
                 "image": "Add image",
                 "draft": "Open draft"
             },
