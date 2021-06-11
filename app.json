@@ -130,6 +130,10 @@
             "failed_to_report_and_block_user": {
                 "title": "Failed to report and block %s",
                 "message": "Please try again"
+            },
+            "sign_in_mastodon_server_connect_fail": {
+                "title": "Connection Failure",
+                "message": "Failed to connect server %s. Please check the server domain and try again."
             }
         },
         "notification": {
