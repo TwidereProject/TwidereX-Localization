@@ -306,7 +306,10 @@
             "title": "Bookmark"
         },
         "trends": {
-            "title": "Trends"
+            "title": "Trends",
+            "world_wide": "Trends - Worldwide",
+            "now": "Trending Now",
+            "accounts": "%d people talking"
         },
         "status": {
             "title": "Tweet",
@@ -338,7 +341,9 @@
                 "media": "Media",
                 "users": "Users",
                 "hashtag": "Hashtag"
-            }
+            },
+            "show_more":"Show more",
+            "show_less":"Show less"
         },
         "profile": {
             "title": "Me",
