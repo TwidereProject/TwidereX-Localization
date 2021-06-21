@@ -313,6 +313,7 @@
         },
         "status": {
             "title": "Tweet",
+            "title_mastodon": "Toot",
             "reply": {
                 "single": "1 Reply",
                 "mutiple": "%d Replies"
