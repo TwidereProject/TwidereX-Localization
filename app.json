@@ -187,6 +187,9 @@
                     "total_vote": "%s vote",
                     "total_people": "%s people",
                     "total_votes": "%s votes"
+                },
+                "thread": {
+                    "show": "Show this thread"
                 }
             },
             "friendship": {
@@ -608,10 +611,6 @@
                     "reply": "Reply",
                     "retweet": "Retweet",
                     "like": "Like"
-                },
-                "thread": {
-                    "show": "Show this thread",
-                    "compose": "thread mode"
                 }
             }
         },
@@ -647,7 +646,8 @@
                 },
                 "add_mention": "Add mention",
                 "image": "Add image",
-                "draft": "Open draft"
+                "draft": "Open draft",
+                "thread": "Thread mode"
             },
             "manage_accounts": {
                 "add": "Add"
