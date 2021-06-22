@@ -503,6 +503,7 @@
                     "light": "Light",
                     "dark": "Dark"
                 },
+                "AMOLED_optimized_mode": "AMOLED optimized mode",
                 "scrolling_timeline": {
                     "tab_bar": "Hide tab bar when scrolling",
                     "app_bar": "Hide app bar when scrolling",
