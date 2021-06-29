@@ -452,7 +452,8 @@
             },
             "delete_list_confirm": "Delete this list: %s",
             "no_members_found": "No Members Found.",
-            "add_members": "Add Members"
+            "add_members": "Add Members",
+            "delete_list_title": "Delete this list"
         },
         "lists_modify": {
             "create": {
