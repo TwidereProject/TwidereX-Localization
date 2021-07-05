@@ -138,6 +138,10 @@
             "failed_to_login_timeout": {
                 "title": "Failed to Login",
                 "message": "Connection timeout."
+            },
+            "failed_to_send_message": {
+              "title": "Sending message",
+              "message": "Failed to send message"
             }
         },
         "notification": {
@@ -148,7 +152,11 @@
             "follow_request": "%s has requested to follow you",
             "favourite": "%s favourited your toot",
             "follow": "%s followed you",
-            "mentions": "%s mentions you"
+            "mentions": "%s mentions you",
+            "messages": {
+              "title": "New direct message",
+              "content": "%s sent you a message"
+            }
         },
         "controls": {
             "actions": {
@@ -300,7 +308,21 @@
             }
         },
         "messages": {
-            "title": "Messages"
+            "title": "Messages",
+            "expanded": {
+              "photo": "[Photo]"
+            },
+            "action": {
+              "copy_text": "Copy message text",
+              "delete": "Delete message for you"
+            },
+            "new_conversation": {
+              "title": "Find people",
+              "search": "Search people"
+            },
+            "icon": {
+              "failed": "Send message failed"
+            }
         },
         "likes": {
             "title": "Likes"
