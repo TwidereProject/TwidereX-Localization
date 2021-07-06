@@ -567,6 +567,11 @@
                 },
                 "url_preview": "Url previews"
             },
+            "notification": {
+                "title": "Notification",
+                "notification_switch": "Show Notification",
+                "accounts": "Accounts"
+            },
             "storage": {
                 "title": "Storage",
                 "search": {
