@@ -58,6 +58,9 @@
                 "title": "Failed to save media",
                 "message": "Please try again"
             },
+            "media_sharing": {
+                "title": "Media will be shared after download is completed"
+            },
             "photo_saved": {
                 "title": "Photo Saved"
             },
@@ -172,7 +175,8 @@
                 "save_photo": "Save photo",
                 "sign_in": "Sign in",
                 "preview": "Preview",
-                "open_in_safari": "Open in Safari"
+                "open_in_safari": "Open in Safari",
+                "share_media": "Share media"
             },
             "timeline": {
                 "load_more": "Load More"
