@@ -609,6 +609,25 @@
                             "project_button": "Project URL"
                         }
                     }
+                },
+                "proxy": {
+                  "title":"Proxy settings",
+                  "enable":{
+                    "title":"Proxy",
+                    "description":"Use proxy for all network requests"
+                  },
+                  "type": {
+                    "title":"Proxy type",
+                    "http": "HTTP",
+                    "reverse": "Reverse"
+                  },
+                  "server": "Server",
+                  "port": {
+                    "title": "Port",
+                    "error": "Proxy server port must be numbers"
+                  },
+                  "username": "Username",
+                  "password": "Password",
                 }
             },
             "about": {
