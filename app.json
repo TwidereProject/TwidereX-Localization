@@ -571,6 +571,17 @@
                 },
                 "url_preview": "Url previews"
             },
+            "layout": {
+                "title": "Layout",
+                "desc": {
+                    "title": "Custom Layout",
+                    "content": "Choose and arrange up to 5 actions that will appear on the tabbar (The local and federal timelines will only be displayed in Mastodon.)"
+                },
+                "actions": {
+                    "tabbar": "Tabbar actions",
+                    "drawer": "Drawer actions"
+                }
+            },
             "notification": {
                 "title": "Notification",
                 "notification_switch": "Show Notification",
