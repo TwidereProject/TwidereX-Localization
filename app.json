@@ -306,6 +306,12 @@
         "timeline": {
             "title": "Timeline"
         },
+        "federated": {
+            "title": "Federated"
+        },
+        "local": {
+            "title": "Local"
+        },
         "mentions": {
             "title": "Mentions"
         },
@@ -638,7 +644,7 @@
                     "error": "Proxy server port must be numbers"
                   },
                   "username": "Username",
-                  "password": "Password",
+                  "password": "Password"
                 }
             },
             "about": {
