@@ -336,6 +336,9 @@
             },
             "icon": {
               "failed": "Send message failed"
+            },
+            "error": {
+              "not_supported":"The Current account does not support direct messages"
             }
         },
         "likes": {
