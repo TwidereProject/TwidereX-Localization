@@ -5,10 +5,12 @@
 files: [
  {
   "source" : "app.json",
+  "translation" : "translation/%locale_with_underscore%/%original_file_name%",
   "update_option" : "update_as_unapproved",
  },
  {
   "source" : "ios-infoPlist.json",
+  "translation" : "translation/%locale_with_underscore%/%original_file_name%",
   "update_option" : "update_as_unapproved",
  }
 ]
