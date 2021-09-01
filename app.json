@@ -109,6 +109,9 @@
             "block_user_success": {
                 "title": "%s has been blocked"
             },
+            "block_user_confirm": {
+                "title": "Do you want to block %s?"
+            },
             "failed_to_block_user": {
                 "title": "Failed to block %s",
                 "message": "Please try again"
@@ -214,6 +217,7 @@
                     "unmute": "Unmute",
                     "block": "Block",
                     "unblock": "Unblock",
+                    "blocked": "Blocked",
                     "report": "Report",
                     "report_and_block": "Report and Block"
                 },
