@@ -189,7 +189,12 @@
                     "copy_link": "Copy link",
                     "share_link": "Share link",
                     "delete_tweet": "Delete tweet",
-                    "vote": "Vote"
+                    "vote": "Vote",
+                    "share": "Share",
+                    "bookmark": "Bookmark",
+                    "translate": "Translate",
+                    "pin_on_profile": "Pin on Profile",
+                    "unpin_from_profile": "Unpin from Profile"
                 },
                 "media": "Media",
                 "user_retweeted": "%s retweeted",
