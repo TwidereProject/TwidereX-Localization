@@ -198,6 +198,9 @@
                 },
                 "media": "Media",
                 "user_retweeted": "%s retweeted",
+                "you_retweeted": "You retweeted",
+                "user_boosted": "%s boosted",
+                "you_boosted": "You boosted",
                 "poll": {
                     "expired": "Closed",
                     "total_person": "%s person",
