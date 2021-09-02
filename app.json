@@ -588,7 +588,8 @@
                     "auto_playback": "Auto playback",
                     "automatic": "Automatic",
                     "always": "Always",
-                    "off": "Off"
+                    "off": "Off",
+                    "mute_by_default": "Mute by default"
                 },
                 "url_preview": "Url previews"
             },
