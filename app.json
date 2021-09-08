@@ -736,7 +736,17 @@
                 "add_mention": "Add mention",
                 "image": "Add image",
                 "draft": "Open draft",
-                "thread": "Thread mode"
+                "thread": "Thread mode",
+                "media_insert": {
+                    "camera": "Take Photo",
+                    "record_video": "Record Video",
+                    "library": "Browse Library",
+                    "gif": "Add GIF"
+                }
+            },
+            "gif": {
+                "title": "GIPHY",
+                "search": "Search GIF"
             },
             "manage_accounts": {
                 "add": "Add"
