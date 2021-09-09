@@ -220,6 +220,7 @@
                     "follow": "Follow",
                     "unfollow": "Unfollow",
                     "following": "Following",
+                    "request": "Request",
                     "pending": "Pending",
                     "mute": "Mute",
                     "unmute": "Unmute",
