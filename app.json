@@ -146,8 +146,8 @@
                 "message": "Connection timeout."
             },
             "failed_to_send_message": {
-              "title": "Sending message",
-              "message": "Failed to send message"
+                "title": "Sending message",
+                "message": "Failed to send message"
             }
         },
         "notification": {
@@ -160,8 +160,8 @@
             "follow": "%s followed you",
             "mentions": "%s mentions you",
             "messages": {
-              "title": "New direct message",
-              "content": "%s sent you a message"
+                "title": "New direct message",
+                "content": "%s sent you a message"
             }
         },
         "controls": {
@@ -336,21 +336,21 @@
         "messages": {
             "title": "Messages",
             "expanded": {
-              "photo": "[Photo]"
+                "photo": "[Photo]"
             },
             "action": {
-              "copy_text": "Copy message text",
-              "delete": "Delete message for you"
+                "copy_text": "Copy message text",
+                "delete": "Delete message for you"
             },
             "new_conversation": {
-              "title": "Find people",
-              "search": "Search people"
+                "title": "Find people",
+                "search": "Search people"
             },
             "icon": {
-              "failed": "Send message failed"
+                "failed": "Send message failed"
             },
             "error": {
-              "not_supported":"The Current account does not support direct messages"
+                "not_supported": "The Current account does not support direct messages"
             }
         },
         "likes": {
@@ -397,8 +397,8 @@
                 "users": "Users",
                 "hashtag": "Hashtag"
             },
-            "show_more":"Show more",
-            "show_less":"Show less"
+            "show_more": "Show more",
+            "show_less": "Show less"
         },
         "profile": {
             "title": "Me",
@@ -644,23 +644,23 @@
                     }
                 },
                 "proxy": {
-                  "title":"Proxy settings",
-                  "enable":{
-                    "title":"Proxy",
-                    "description":"Use proxy for all network requests"
-                  },
-                  "type": {
-                    "title":"Proxy type",
-                    "http": "HTTP",
-                    "reverse": "Reverse"
-                  },
-                  "server": "Server",
-                  "port": {
-                    "title": "Port",
-                    "error": "Proxy server port must be numbers"
-                  },
-                  "username": "Username",
-                  "password": "Password"
+                    "title": "Proxy settings",
+                    "enable": {
+                        "title": "Proxy",
+                        "description": "Use proxy for all network requests"
+                    },
+                    "type": {
+                        "title": "Proxy type",
+                        "http": "HTTP",
+                        "reverse": "Reverse"
+                    },
+                    "server": "Server",
+                    "port": {
+                        "title": "Port",
+                        "error": "Proxy server port must be numbers"
+                    },
+                    "username": "Username",
+                    "password": "Password"
                 }
             },
             "about": {
