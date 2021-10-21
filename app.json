@@ -116,6 +116,9 @@
                 "title": "Failed to block %s",
                 "message": "Please try again"
             },
+            "unblock_user_confirm": {
+                "title": "Do you want to unblock %s?"
+            },
             "unblock_user_success": {
                 "title": "%s has been unblocked"
             },
