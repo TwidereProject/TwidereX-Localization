@@ -92,12 +92,18 @@
             "too_many_requests": {
                 "title": "Too Many Requests"
             },
+            "mute_user_confirm": {
+                "title": "Do you want to mute %s?"
+            },
             "mute_user_success": {
                 "title": "%s has been muted"
             },
             "failed_to_mute_user": {
                 "title": "Failed to mute %s",
                 "message": "Please try again"
+            },
+            "unmute_user_confirm": {
+                "title": "Do you want to unmute %s?"
             },
             "unmute_user_success": {
                 "title": "%s has been unmuted"
