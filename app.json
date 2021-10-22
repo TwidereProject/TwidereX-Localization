@@ -403,8 +403,10 @@
             "saved_search": "Saved Search",
             "tabs": {
                 "tweets": "Tweets",
+                "toots": "Toots",
                 "media": "Media",
                 "users": "Users",
+                "people": "People",
                 "hashtag": "Hashtag"
             },
             "show_more": "Show more",
