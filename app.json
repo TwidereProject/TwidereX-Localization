@@ -340,7 +340,8 @@
         "notification": {
             "title": "Notification",
             "tabs": {
-                "all": "All"
+                "all": "All",
+                "mentions": "Mentions"
             }
         },
         "messages": {
