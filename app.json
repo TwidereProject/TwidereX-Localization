@@ -462,7 +462,8 @@
                     "1_Day": "1 day",
                     "3_Day": "3 days",
                     "7_Day": "7 days"
-                }
+                },
+                "placeholder_index": "Choice %d"
             },
             "visibility": {
                 "public": "Public",
