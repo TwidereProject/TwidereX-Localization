@@ -470,6 +470,12 @@
                 "unlisted": "Unlisted",
                 "private": "Private",
                 "direct": "Direct"
+            },
+            "visibility_description": {
+                "public": "Visible for all, shown in public timelines",
+                "unlisted": "Visible for all, but not in public timelines",
+                "private": "Visible for followers only",
+                "direct": "Visible for mentioned users only"
             }
         },
         "compose_user_search": {
