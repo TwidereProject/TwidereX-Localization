@@ -34,12 +34,27 @@
             "tweet_sent": {
                 "title": "Tweet Sent"
             },
+            "tweet_posted": {
+                "title": "Tweet Posted"
+            },
+            "toot_posted": {
+                "title": "Toot Posted"
+            },
             "tweet_sending": {
                 "title": "Sending tweet"
             },
+            "toot_sending": {
+                "title": "Sending toot"
+            },
             "tweet_fail": {
                 "title": "Failed to Tweet",
-                "message": "Please try again"
+                "message": "Please try again",
+                "draft_saved_message": "Your tweet has been saved to Drafts."
+            },
+            "toot_fail": {
+                "title": "Failed to Toot",
+                "message": "Please try again",
+                "draft_saved_message": "Your toot has been saved to Drafts."
             },
             "tweet_deleted": {
                 "title": "Tweet Deleted"
