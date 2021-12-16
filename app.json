@@ -122,6 +122,10 @@
             "too_many_requests": {
                 "title": "Too Many Requests"
             },
+            "sign_out_user_confirm": {
+                "title": "Sign out",
+                "message": "Do you want to sign out?"
+            },
             "mute_user_confirm": {
                 "title": "Do you want to mute %s?"
             },
@@ -218,6 +222,7 @@
                 "save_photo": "Save photo",
                 "browse": "Browse",
                 "sign_in": "Sign in",
+                "sign_out": "Sign out",
                 "preview": "Preview",
                 "open_in_safari": "Open in Safari",
                 "share_media": "Share media"
