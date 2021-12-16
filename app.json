@@ -207,6 +207,7 @@
             "actions": {
                 "add": "Add",
                 "remove": "Remove",
+                "delete": "Delete",
                 "edit": "Edit",
                 "save": "Save",
                 "ok": "OK",
