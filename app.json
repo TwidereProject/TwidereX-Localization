@@ -460,6 +460,9 @@
             "filter": {
                 "all": "All tweets",
                 "exclude_replies": "Exclude replies"
+            },
+            "fields": {
+                "joined_in_date": "Joined in %s"
             }
         },
         "following": {
