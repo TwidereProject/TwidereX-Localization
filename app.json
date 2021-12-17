@@ -686,7 +686,9 @@
                     "title": "Third-party Twitter data provider",
                     "input": {
                         "placeholder": "Nitter Instance",
-                        "description": "Alternative Twitter front-end focused on privacy."
+                        "description": "Alternative Twitter front-end focused on privacy.",
+                        "value": "Instance URL",
+                        "invalid": "Nitter instance URL is invalid, e.g. https://nitter.net"
                     },
                     "dialog": {
                         "information": {
