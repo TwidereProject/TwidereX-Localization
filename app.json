@@ -289,6 +289,9 @@
                 "followers": "Followers",
                 "listed": "Listed"
             },
+            "list": {
+                "no_results": "No results"
+            },
             "ios": {
                 "photo_library": "Photo Library"
             }
