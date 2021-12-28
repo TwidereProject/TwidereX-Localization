@@ -654,7 +654,8 @@
                     "off": "Off",
                     "mute_by_default": "Mute by default"
                 },
-                "url_preview": "Url previews"
+                "url_preview": "Url previews",
+                "share_with_content": "Share link (media) and content"
             },
             "layout": {
                 "title": "Layout",
