@@ -237,6 +237,7 @@
                     "retweet": "Retweet",
                     "copy_link": "Copy link",
                     "share_link": "Share link",
+                    "share_content": "Share content",
                     "delete_tweet": "Delete tweet",
                     "vote": "Vote",
                     "share": "Share",
@@ -654,8 +655,7 @@
                     "off": "Off",
                     "mute_by_default": "Mute by default"
                 },
-                "url_preview": "Url previews",
-                "share_with_content": "Share link (media) and content"
+                "url_preview": "Url previews"
             },
             "layout": {
                 "title": "Layout",
