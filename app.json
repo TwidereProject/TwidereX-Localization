@@ -762,6 +762,7 @@
                 "location": "Location",
                 "retweeted": "Retweeted",
                 "media": "Media",
+                "author_avatar": "Author avatar",
                 "actions": {
                     "reply": "Reply",
                     "retweet": "Retweet",
@@ -817,14 +818,18 @@
             },
             "manage_accounts": {
                 "add": "Add",
-                "current_sign_in_user": "Current sign-in user: %s",
-                "double_tap_and_hold_to_open_the_accounts_panel": "Double tap and hold to open the accounts panel"
+                "current_sign_in_user": "Current sign-in user: %s"
             },
             "settings": {
                 "display": {
                     "font_size": "Font Size"
                 }
             }
+        },
+        "voice_over": {
+            "double_tap_and_hold_to_display_menu": "Double tap and hold to display menu",
+            "double_tap_to_open_profile": "Double tap to open profile",
+            "double_tap_and_hold_to_open_the_accounts_panel": "Double tap and hold to open the accounts panel"
         }
     }
 }
