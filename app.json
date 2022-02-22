@@ -765,7 +765,7 @@
                 "actions": {
                     "reply": "Reply",
                     "retweet": "Retweet",
-                    "like": "Like"
+                    "like": "Like",
                     "menu": "Menu"
                 }
             }
@@ -816,7 +816,9 @@
                 "search": "Search GIF"
             },
             "manage_accounts": {
-                "add": "Add"
+                "add": "Add",
+                "current_sign_in_user": "Current sign-in user: %s",
+                "double_tap_and_hold_to_open_the_accounts_panel": "Double tap and hold to open the accounts panel"
             },
             "settings": {
                 "display": {
