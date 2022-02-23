@@ -359,7 +359,6 @@
             "sign_in_with_twitter": "Sign in with Twitter",
             "sign_in_with_mastodon": "Sign in with Mastodon",
             "twitter_options": {
-                "twitter_client_authentication_key_setting": "Twitter client authentication key setting",
                 "sign_in_with_custom_twitter_key": "Sign in with Custom Twitter Key",
                 "twitter_api_v2_access_is_required": "Twitter API v2 access is required."
             }
@@ -773,6 +772,10 @@
             }
         },
         "scene": {
+            "sign_in": {
+                "twitter_client_authentication_key_setting": "Twitter client authentication key setting",
+                "please_enter_mastodon_domain_to_sign_in": "Please enter Mastodon domain to sign-in"
+            },
             "home": {
                 "compose": "Compose",
                 "menu": "Menu",
