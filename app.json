@@ -235,6 +235,7 @@
                     "copy_text": "Copy text",
                     "quote": "Quote",
                     "retweet": "Retweet",
+                    "boost": "Boost",
                     "copy_link": "Copy link",
                     "share_link": "Share link",
                     "share_content": "Share content",
