@@ -762,6 +762,8 @@
             "status": {
                 "location": "Location",
                 "retweeted": "Retweeted",
+                "boosted": "Boosted",
+                "Liked": "Liked",
                 "media": "Media",
                 "author_avatar": "Author avatar",
                 "content_warning": "Content Warning",
