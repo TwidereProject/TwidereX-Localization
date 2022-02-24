@@ -764,11 +764,16 @@
                 "retweeted": "Retweeted",
                 "media": "Media",
                 "author_avatar": "Author avatar",
+                "content_warning": "Content Warning",
                 "actions": {
                     "reply": "Reply",
                     "retweet": "Retweet",
                     "like": "Like",
-                    "menu": "Menu"
+                    "menu": "Menu",
+                    "reveal_content": "Reveal content",
+                    "hide_content": "Hide content",
+                    "reveal_media": "Reveal media",
+                    "hide_media": "Hide media"
                 }
             }
         },
