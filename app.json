@@ -763,10 +763,11 @@
                 "location": "Location",
                 "retweeted": "Retweeted",
                 "boosted": "Boosted",
-                "Liked": "Liked",
+                "liked": "Liked",
                 "media": "Media",
                 "author_avatar": "Author avatar",
                 "content_warning": "Content Warning",
+                "poll_option_ordinal_prefix": "Poll option",
                 "actions": {
                     "reply": "Reply",
                     "retweet": "Retweet",
