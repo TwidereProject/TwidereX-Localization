@@ -263,6 +263,13 @@
                     "show": "Show this thread"
                 }
             },
+            "user": {
+                "actions": {
+                    "view_lists": "View Lists",
+                    "view_listed": "View Listed",
+                    "add_remove_from_lists": "Add/remove from Lists"
+                }
+            },
             "friendship": {
                 "actions": {
                     "follow": "Follow",
