@@ -191,6 +191,14 @@
             "failed_to_send_message": {
                 "title": "Sending message",
                 "message": "Failed to send message"
+            },
+            "list_deleted": {
+                "title": "List Deleted",
+                "message": "Please try again"
+            },
+            "failed_to_delete_list": {
+                "title": "Failed to Delete List",
+                "message": "Please try again"
             }
         },
         "notification": {
@@ -600,7 +608,8 @@
             },
             "add": {
                 "title": "Add Member",
-                "search": "Search people"
+                "search": "Search people",
+                "search_within_people_you_follow": "Search within people you follow"
             }
         },
         "settings": {
