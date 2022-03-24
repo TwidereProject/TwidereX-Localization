@@ -206,6 +206,10 @@
             "failed_to_remove_list_member": {
                 "title": "Failed to Remove List Member",
                 "message": "Please try again"
+            },
+            "failed_to_add_list_member": {
+                "title": "Failed to Add List Member",
+                "message": "Please try again"
             }
         },
         "notification": {
