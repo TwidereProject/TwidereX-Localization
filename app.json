@@ -199,6 +199,13 @@
             "failed_to_delete_list": {
                 "title": "Failed to Delete List",
                 "message": "Please try again"
+            },
+            "list_member_removed": {
+                "title": "List Member Removed"
+            },
+            "failed_to_remove_list_member": {
+                "title": "Failed to Remove List Member",
+                "message": "Please try again"
             }
         },
         "notification": {
