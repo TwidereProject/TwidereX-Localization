@@ -654,6 +654,10 @@
                     "tab_bar": "Hide tab bar when scrolling",
                     "app_bar": "Hide app bar when scrolling",
                     "fab": "Hide FAB when scrolling"
+                },
+                "translation": {
+                    "translate_button": "Translate button",
+                    "service": "Service"
                 }
             },
             "display": {
