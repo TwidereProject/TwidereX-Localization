@@ -635,9 +635,10 @@
                 "pick_color": "Pick color",
                 "app_icon": "App Icon",
                 "section_header": {
-                    "tab_position": "Tab position",
+                    "tab_position": "Tab Position",
                     "theme": "Theme",
-                    "scrolling_timeline": "Scrolling timeline"
+                    "scrolling_timeline": "Scrolling Timeline",
+                    "translation": "Translation"
                 },
                 "tab_position": {
                     "top": "Top",
