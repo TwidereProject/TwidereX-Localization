@@ -657,7 +657,10 @@
                 },
                 "translation": {
                     "translate_button": "Translate button",
-                    "service": "Service"
+                    "service": "Service",
+                    "auto": "Auto",
+                    "always": "Always",
+                    "off": "Off"
                 }
             },
             "display": {
