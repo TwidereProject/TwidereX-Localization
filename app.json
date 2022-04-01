@@ -633,6 +633,7 @@
                 "title": "Appearance",
                 "highlight_color": "Highlight color",
                 "pick_color": "Pick color",
+                "app_icon": "App Icon",
                 "section_header": {
                     "tab_position": "Tab position",
                     "theme": "Theme",
