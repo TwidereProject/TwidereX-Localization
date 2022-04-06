@@ -233,6 +233,7 @@
                 "delete": "Delete",
                 "edit": "Edit",
                 "save": "Save",
+                "copy": "Copy",
                 "ok": "OK",
                 "confirm": "Confirm",
                 "yes": "Yes",
@@ -244,7 +245,8 @@
                 "sign_out": "Sign out",
                 "preview": "Preview",
                 "open_in_safari": "Open in Safari",
-                "share_media": "Share media"
+                "share_media": "Share media",
+                "share": "Share"
             },
             "timeline": {
                 "load_more": "Load More"
