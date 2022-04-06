@@ -245,9 +245,13 @@
                 "sign_out": "Sign out",
                 "preview": "Preview",
                 "open_in_safari": "Open in Safari",
+                "share": "Share",
                 "share_media": "Share media",
                 "share_link": "Share link",
-                "share": "Share"
+                "share_media_menu": {
+                    "link": "Link",
+                    "media": "Media"
+                }
             },
             "timeline": {
                 "load_more": "Load More"
