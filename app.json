@@ -98,6 +98,13 @@
                 "title": "Failed to Save Photo",
                 "message": "Please try again"
             },
+            "photo_copied": {
+                "title": "Photo Copied"
+            },
+            "photo_copy_fail": {
+                "title": "Failed to Copy Photo",
+                "message": "Please try again"
+            },
             "failed_to_load": {
                 "title": "Failed to Load",
                 "message": "Please try again"
