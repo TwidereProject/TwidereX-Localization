@@ -718,6 +718,7 @@
                     "type": {
                         "title": "Proxy type",
                         "http": "HTTP",
+                        "socks": "SOCKS",
                         "reverse": "Reverse"
                     },
                     "server": "Server",
