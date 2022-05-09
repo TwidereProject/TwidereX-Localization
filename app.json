@@ -456,6 +456,7 @@
         "trends": {
             "title": "Trends",
             "world_wide": "Trends - Worldwide",
+            "world_wide_without_prefix": "Worldwide",
             "now": "Trending Now",
             "accounts": "%d people talking"
         },
