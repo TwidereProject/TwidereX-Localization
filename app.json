@@ -570,7 +570,8 @@
                 "caption": {
                     "add": "Add Caption",
                     "update": "Update Caption",
-                    "remove": "Remove Caption"
+                    "remove": "Remove Caption",
+                    "add_a_description_for_this_image": "Add a description for this image"
                 },
                 "remove": "Remove"
             }
