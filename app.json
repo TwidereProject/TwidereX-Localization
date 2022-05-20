@@ -562,6 +562,15 @@
                 "unlisted": "Visible for all, but not in public timelines",
                 "private": "Visible for followers only",
                 "direct": "Visible for mentioned users only"
+            },
+            "media": {
+                "preview": "Preview",
+                "caption": {
+                    "add": "Add Caption",
+                    "update": "Update Caption",
+                    "remove": "Remove Caption"
+                },
+                "remove": "Remove"
             }
         },
         "compose_user_search": {
