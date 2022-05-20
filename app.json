@@ -236,8 +236,10 @@
         "controls": {
             "actions": {
                 "add": "Add",
+                "clear": "Clear",
                 "remove": "Remove",
                 "delete": "Delete",
+                "done": "Done",
                 "edit": "Edit",
                 "save": "Save",
                 "copy": "Copy",
