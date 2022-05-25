@@ -553,6 +553,11 @@
                 },
                 "placeholder_index": "Choice %d"
             },
+            "reply_settings": {
+                "everyone_can_reply": "Everyone can peply",
+                "people_you_follow_can_reply": "People you follow can reply",
+                "only_people_you_mention_can_reply": "Only people you mention can reply"
+            },
             "visibility": {
                 "public": "Public",
                 "unlisted": "Unlisted",
