@@ -301,6 +301,10 @@
                 },
                 "thread": {
                     "show": "Show this thread"
+                },
+                "reply_settings": {
+                    "people_user_mentioned_can_reply": "People %s mentioned can reply.",
+                    "people_user_follows_or_mentioned_can_reply": "People %s follows or mentioned can reply."
                 }
             },
             "user": {
