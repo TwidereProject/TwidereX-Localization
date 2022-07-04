@@ -229,6 +229,10 @@
             "reblog": "%s boosted your toot",
             "status": "%s just posted",
             "follow_request": "%s has requested to follow you",
+            "follow_request_action": {
+                "approve": "Approve",
+                "deny": "Deny"
+            },
             "follow_request_response": {
                 "follow_request_approved": "Follow Request Approved",
                 "follow_request_denied": "Follow Request Denied"
