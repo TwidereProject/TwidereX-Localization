@@ -229,6 +229,10 @@
             "reblog": "%s boosted your toot",
             "status": "%s just posted",
             "follow_request": "%s has requested to follow you",
+            "follow_request_response": {
+                "follow_request_approved": "Follow Request Approved",
+                "follow_request_denied": "Follow Request Denied"
+            },
             "favourite": "%s favourited your toot",
             "follow": "%s followed you",
             "mentions": "%s mentions you",
@@ -468,7 +472,8 @@
             "world_wide": "Trends - Worldwide",
             "world_wide_without_prefix": "Worldwide",
             "now": "Trending Now",
-            "accounts": "%d people talking"
+            "accounts": "%d people talking",
+            "trends_location": "Trends Location"
         },
         "status": {
             "title": "Tweet",
