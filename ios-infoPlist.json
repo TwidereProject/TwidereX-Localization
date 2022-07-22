@@ -1,5 +1,7 @@
 {
     "NSCameraUsageDescription": "Used to take photo for tweet",
     "NSLocationWhenInUseUsageDescription": "Used to send geo marked tweet",
-    "NSPhotoLibraryAddUsageDescription": "Used to save photo into the Photo Library"
+    "NSPhotoLibraryAddUsageDescription": "Used to save photo into the Photo Library",
+    "ComposeShortcutItemTitle": "Compose",
+    "SearchShortcutItemTitle": "Search"
 }
