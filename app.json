@@ -343,7 +343,9 @@
                 "user_is_not_following_you": "%s is not following you",
                 "user_is_following_you": "%s is following you",
                 "mute_user": "Mute %s",
-                "block_user": "Block %s"
+                "block_user": "Block %s",
+                "do_you_want_to_report_user": "Do you want to report %s",
+                "do_you_want_to_report_and block_user": "Do you want to report and block %s"
             },
             "profile_dashboard": {
                 "following": "Following",
@@ -676,8 +678,16 @@
         "settings": {
             "title": "Settings",
             "section_header": {
+                "account": "Account",
                 "general": "General",
                 "about": "About"
+            },
+            "account": {
+                "title": "Account",
+                "mute_and_block": "Mute and Block",
+                "muted_people": "Muted People",
+                "blocked_people": "Blocked People",
+                "account_settings": "Account Settings"
             },
             "appearance": {
                 "title": "Appearance",
@@ -758,7 +768,15 @@
             "notification": {
                 "title": "Notification",
                 "notification_switch": "Show Notification",
-                "accounts": "Accounts"
+                "accounts": "Accounts",
+                "push_notification": "Push Notification",
+                "mastodon": {
+                    "new_follow": "New Follow",
+                    "reblog": "Reblog",
+                    "Favorite": "Favorite",
+                    "poll": "poll",
+                    "mention": "Mention"
+                }
             },
             "storage": {
                 "title": "Storage",
