@@ -755,7 +755,8 @@
                     }
                 },
                 "history_section": {
-                    "history": "History"
+                    "history": "History",
+                    "enable_history_record": "Enable History Record"
                 }
             },
             "display": {
