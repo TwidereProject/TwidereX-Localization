@@ -613,6 +613,15 @@
                 "edit_draft": "Edit draft"
             }
         },
+        "history": {
+            "title": "History",
+            "scope": {
+                "tweet": "Tweet",
+                "toot": "Toot",
+                "user": "User"
+            },
+            "clear": "Clear"
+        },
         "lists": {
             "title": "Lists",
             "tabs": {
@@ -686,8 +695,7 @@
                 "title": "Account",
                 "mute_and_block": "Mute and Block",
                 "muted_people": "Muted People",
-                "blocked_people": "Blocked People",
-                "account_settings": "Account Settings"
+                "blocked_people": "Blocked People"
             },
             "appearance": {
                 "title": "Appearance",
@@ -723,11 +731,39 @@
                     "off": "Off"
                 }
             },
+            "behaviors": {
+                "title": "Behaviors",
+                "tab_bar_section": {
+                    "tab_bar": "Tab Bar",
+                    "show_tab_bar_labels": "Show tab bar labels",
+                    "tap_tab_bar_scroll_to_top": "Tap tab bar scroll to top"
+                },
+                "timeline_refreshing_section": {
+                    "timeline_refreshing": "Timeline Refreshing",
+                    "automatically_refresh_timeline": "Automatically refresh timeline",
+                    "refresh_interval": "Refresh interval",
+                    "refresh_interval_option": {
+                        "30_seconds": "30 seconds",
+                        "60_seconds": "60 seconds",
+                        "120_seconds": "120 seconds",
+                        "300_seconds": "300 seconds"
+                    },
+                    "reset_to_top": "Reset to top",
+                    "reset_to_top_option": {
+                        "single_tap": "Single Tap",
+                        "double_tap": "Double Tap"
+                    }
+                },
+                "history_section": {
+                    "history": "History"
+                }
+            },
             "display": {
                 "title": "Display",
                 "section_header": {
                     "preview": "Preview",
                     "text": "Text",
+                    "avatar": "Avatar",
                     "date_format": "Date Format",
                     "media": "Media"
                 },
