@@ -5,6 +5,10 @@
                 "title": "Account Temporarily Locked",
                 "message": "Open Twitter to unlock"
             },
+            "request_throttle": {
+                "title": "Request Throttle",
+                "message": "Operation too frequent. Please try again later"
+            },
             "rate_limit_exceeded": {
                 "title": "Rate Limit Exceeded",
                 "message": "Reached Twitter API usage limit"
