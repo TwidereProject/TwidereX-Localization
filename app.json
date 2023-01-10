@@ -349,7 +349,7 @@
                 "mute_user": "Mute %s",
                 "block_user": "Block %s",
                 "do_you_want_to_report_user": "Do you want to report %s",
-                "do_you_want_to_report_and block_user": "Do you want to report and block %s"
+                "do_you_want_to_report_and_block_user": "Do you want to report and block %s"
             },
             "profile_dashboard": {
                 "following": "Following",
@@ -700,6 +700,14 @@
                 "mute_and_block": "Mute and Block",
                 "muted_people": "Muted People",
                 "blocked_people": "Blocked People"
+            },
+            "privacy_and_safety": {
+                "title": "Privacy and safety",
+                "section_header": {
+                    "mute_and_block": "Mute and Block",
+                    "sensitive": "Sensitive Info"
+                },
+                "always_show_sensitive_media": "Always show sensitive media"
             },
             "appearance": {
                 "title": "Appearance",
