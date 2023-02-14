@@ -778,7 +778,8 @@
                     "text": "Text",
                     "avatar": "Avatar",
                     "date_format": "Date Format",
-                    "media": "Media"
+                    "media": "Media",
+                    "toolbar_icons": "Toolbar Icons"
                 },
                 "preview": {
                     "thank_for_using_twidere_x": "Thanks for using @TwidereProject!"
@@ -801,7 +802,11 @@
                     "off": "Off",
                     "mute_by_default": "Mute by default"
                 },
-                "url_preview": "Url previews"
+                "url_preview": "Url previews",
+                "toolbar_icons": {
+                    "hide_toolbar_icons": "Hide toolbar icons",
+                    "show_status_numbers": "Show status numbers"
+                }
             },
             "layout": {
                 "title": "Layout",
