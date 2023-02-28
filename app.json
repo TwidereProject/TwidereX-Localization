@@ -808,6 +808,30 @@
                     "show_status_numbers": "Show status numbers"
                 }
             },
+            "swipe_gestures": {
+                "tittle": "Swipe Gestures",
+                "desc": {
+                    "title": "Enable swipe gestures",
+                    "content": "Horizontal scrolling of tabs will be disabled when swipe gestures are enabled."
+                },
+                "gestures": {
+                    "right_short": "Right Short",
+                    "right_long": "Right Long",
+                    "left_short": "Left Short",
+                    "left_long": "Left Long"
+                },
+                "actions": {
+                    "none": "None",
+                    "reply": "Reply",
+                    "repost": "$REPOST",
+                    "like": "Like",
+                    "bookmark": "Bookmark",
+                    "share": "Share",
+                    "detail": "Detail",
+                    "delete": "Delete",
+                }
+
+            },
             "layout": {
                 "title": "Layout",
                 "desc": {
