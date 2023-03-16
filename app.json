@@ -283,10 +283,11 @@
             },
             "status": {
                 "actions": {
-                    "copy_text": "Copy text",
+                    "reply": "Reply",
                     "quote": "Quote",
                     "retweet": "Retweet",
                     "boost": "Boost",
+                    "copy_text": "Copy text",
                     "copy_link": "Copy link",
                     "share_link": "Share link",
                     "share_content": "Share content",
