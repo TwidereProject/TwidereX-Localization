@@ -447,6 +447,9 @@
         "local": {
             "title": "Local"
         },
+        "detail": {
+            "title": "Detail"
+        },
         "mentions": {
             "title": "Mentions"
         },
