@@ -425,7 +425,7 @@
         "manage_accounts": {
             "title": "Accounts",
             "delete_account": "Delete account",
-            "open_in_a_new_window": "Open in a new window"
+            "open_in_new_window": "Open in new window"
         },
         "sign_in": {
             "hello_sign_in_to_get_started": "Hello!\nSign in to Get Started.",
