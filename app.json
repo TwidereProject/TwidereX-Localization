@@ -904,6 +904,15 @@
                     "background_shadow": "About page background logo shadow"
                 }
             }
+        },
+        "column": {
+            "title": "New Column",
+            "actions": {
+                "close_column": "Close column",
+                "move_left": "Move left",
+                "move_right": "Move right",
+                "open_in_new_column": "Open in new column"
+            }
         }
     },
     "accessibility": {
