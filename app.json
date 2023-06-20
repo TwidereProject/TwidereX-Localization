@@ -365,6 +365,10 @@
             "list": {
                 "no_results": "No results"
             },
+            "empty_state": {
+                "no_results": "No results",
+                "unable_to_access": "Unable to access"
+            },
             "ios": {
                 "photo_library": "Photo Library"
             }
